@@ -1,9 +1,12 @@
 <div align="center">
 
-**Cybersecurity Apprentice · Pakistan**
+**Cybersecurity Apprentice**
 
-Studying SOC Analysis and Penetration Testing from zero.
-Documenting every step — notes, writeups, and tools — all public on GitHub.
-Currently working through TryHackMe, Google, and IBM certifications.
+---
+
+SOC Analysis & Penetration Testing  
+TryHackMe · Google · IBM  
+Documenting everything — notes, writeups, tools  
+Building from zero, all in public  
 
 </div>
